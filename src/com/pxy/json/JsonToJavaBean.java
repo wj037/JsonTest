@@ -22,6 +22,7 @@ public class JsonToJavaBean {
 	        }
 	 }
 	 public void a(){
-		 
+		  
 	 }
+	 
 }
