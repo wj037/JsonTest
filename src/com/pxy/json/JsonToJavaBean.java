@@ -21,4 +21,7 @@ public class JsonToJavaBean {
 	            System.out.println(s.getName());
 	        }
 	 }
+	 public void a(){
+		 
+	 }
 }
